@@ -1,4 +1,4 @@
-import Colorpick from './component/Colorpick.js';
+import Colorpick from './components/Colorpick';
 
 const Apps = () => {
   const colors = ["red", "green", "blue", "yellow", "purple","orange","violet","black","pink","skyblue","lightgreen","darkviolet","lightyellow","gray"];
